@@ -14,9 +14,6 @@ This repository contains an implementation of an image denoising project using a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -31,7 +28,7 @@ Image denoising is an essential task in image processing, aimed at removing nois
 
 ## Dataset
 
-The dataset used for this project contains noisy and clean images for training and testing. Due to size constraints, the dataset is not included in this repository. You can download the dataset from [this link](https://link.to/your/dataset.zip).
+The dataset used for this project contains noisy and clean images for training and testing. Due to size constraints, the dataset is not included in this repository. You can download the dataset from [this link](https://drive.google.com/file/d/1VuhF_aTGv_YQjhKhl61HjOLDBAoJilvJ/view?usp=drive_link)
 
 1. Download the dataset and upload it to your Google Drive.
 2. The dataset should have the following structure:
