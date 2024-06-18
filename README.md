@@ -114,24 +114,6 @@ The performance of the denoising model is evaluated using the PSNR metric. Here 
 
 | Metric     | Value    |
 |------------|----------|
-| Test Loss  | x.xxxx   |
-| Test PSNR  | xx.xx dB |
+| Test Loss  | 9.3e-6   |
+| Test PSNR  | 50.23 dB |
 
-## Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to open an issue or contact me directly:
-
-- Name: Your Name
-- Email: your.email@example.com
-
----
-
-Feel free to adjust the `README.md` file as necessary to better fit your project's specifics and personal preferences.
